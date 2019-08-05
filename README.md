@@ -12,5 +12,5 @@ Use IDM forever without cracking
 
 ## Download
 
-You can get the latest version [here](https://github.com/J2TeaM/idm-trial-reset/releases/latest).
+You can get the latest version [here](https://github.com/truongsofm/idm-trial-reset/raw/master/IDM%20Trial%20Reset.exe).
 
